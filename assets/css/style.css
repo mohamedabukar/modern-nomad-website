@@ -188,6 +188,14 @@
     width:420px;
     height:373px
    }
+
+   .w-567{
+    width: 100%;
+    border-radius: 90%;
+    margin-top: 50px;
+    width:420px;
+    height:373px
+   }
   
   .section-title,
   .section-text { text-align: center; }
