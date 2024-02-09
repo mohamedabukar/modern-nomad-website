@@ -1,1 +1,0 @@
-# modern-nomad-website
