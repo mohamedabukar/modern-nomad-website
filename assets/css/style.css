@@ -183,10 +183,9 @@
   .w-100 {
     width: 100%;
     border-radius: 90%;
-    margin-left: 100px;
-    margin-top: 50px;
-    width:420px;
-    height:373px
+    width:220px;
+    height:173px;
+    display: flex;
    }
 
    .w-567{
@@ -317,6 +316,7 @@
   .hero {
     padding-block-start: calc(var(--section-padding) + 50px);
     text-align: center;
+    flex-wrap: wrap;
   }
   
   .hero-content { margin-block-end: 30px; }
@@ -335,7 +335,7 @@
     margin-inline: auto;
     margin-block-start: 20px;
   }
-  
+
   
   
   
