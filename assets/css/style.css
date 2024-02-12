@@ -183,9 +183,9 @@
   .w-100 {
     width: 100%;
     border-radius: 90%;
-    width:220px;
-    height:173px;
-    display: flex;
+    width:320px;
+    height:273px;
+    margin-left: 50px;
    }
 
    .w-567{
