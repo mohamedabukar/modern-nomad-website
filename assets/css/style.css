@@ -179,6 +179,10 @@
   .h2 { font-size: var(--fs-2); }
   
   .h3 { font-size: var(--fs-3); }
+
+  .h4 {color: var(--eerie-black);
+       font-family: var(--ff-league-spartan);
+    }
   
   .w-100 {
     width: 100%;
